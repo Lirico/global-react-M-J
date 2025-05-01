@@ -1,11 +1,13 @@
-import Contador from "@/components/clase_3/Contador";
+import BooksList from "@/components/clase_4/BooksList";
+import RelojEffect from "@/components/clase_4/RelojEffect";
 
 
 
 export default function Home() {
   return (
     <>
-      <Contador />
+      {/* <RelojEffect /> */}
+      <BooksList />
     </>
   );
 }
