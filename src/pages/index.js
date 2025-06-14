@@ -1,3 +1,4 @@
+
 import ShoppingCart from "@/components/clase_6/shopping_cart/ShoppingCart";
 
 
